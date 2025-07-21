@@ -31,7 +31,7 @@ Compared multiple regression models with cross-validation.
 bash
 Copy
 Edit
-git clone https://github.com/your-username/calories-burnt-prediction.git
+git clone https://github.com/Bhuvanesh2209/Calories-Burnt-Prediction-sytem
 cd calories-burnt-prediction
 pip install -r requirements.txt
 python main.py
