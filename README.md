@@ -51,9 +51,3 @@ Edit
 ├── main.py               # CLI-based prediction script
 ├── app.py                # Streamlit web app (optional)
 └── README.md
-✅ Future Improvements
-Add wearable device integration (e.g., Fitbit API).
-
-Deploy as an API using FastAPI/Flask.
-
-Add calorie tracking dashboard.
